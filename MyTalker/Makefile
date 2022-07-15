@@ -1,5 +1,5 @@
 target = MyTalker
-OBJS=nonconnect.cpp
+OBJS=mytalker.cpp
 LDFLAGS=
 LIBS=
 LIBS+=
