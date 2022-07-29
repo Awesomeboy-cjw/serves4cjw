@@ -1,4 +1,4 @@
-# webserve4cjw
+# serves4cjw
 
 包含了一个CGI服务器和一个聊天室程序
 
